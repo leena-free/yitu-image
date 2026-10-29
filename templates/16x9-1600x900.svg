@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <!-- 16:9 · 空画布模板。改文字、改块数、换配色即可 -->
+  <rect width="1600" height="900" fill="#FFF8EE"/>
+  <text x="80" y="162" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="67" font-weight="700" fill="#C7561E">主标题写在这里</text>
+  <text x="80" y="216" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="30" fill="#7A4A33">副标题：一句话说清这张图讲什么</text>
+  <rect x="80" y="342" width="459" height="414" rx="24" fill="#F69834"/>
+  <text x="117" y="417" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="80" font-weight="700" fill="#FFF8EE">01</text>
+  <text x="117" y="528" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="53" font-weight="700" fill="#3A1D0E">第一步</text>
+  <text x="117" y="599" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="30" fill="#5A3018">这里写要点</text>
+  <rect x="571" y="342" width="459" height="414" rx="24" fill="#F9C2BD"/>
+  <text x="608" y="417" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="80" font-weight="700" fill="#C7561E">02</text>
+  <text x="608" y="528" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="53" font-weight="700" fill="#3A1D0E">第二步</text>
+  <text x="608" y="599" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="30" fill="#5A3018">这里写要点</text>
+  <rect x="1062" y="342" width="459" height="414" rx="24" fill="#C7561E"/>
+  <text x="1099" y="417" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="80" font-weight="700" fill="#FFF8EE">03</text>
+  <text x="1099" y="528" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="53" font-weight="700" fill="#FFF8EE">第三步</text>
+  <text x="1099" y="599" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="30" fill="#F9C2BD">这里写要点</text>
+  <text x="80" y="846" font-family="Microsoft YaHei, Noto Sans SC, PingFang SC, sans-serif" font-size="26" fill="#7A4A33">来源 / 署名 / 日期</text>
+</svg>
